@@ -1,0 +1,10 @@
+a = input("Escribe tu cantante favorito: ");
+b = input("Escribe que haces en tus tiempos libres: ");
+c = input("Escribe tu serie favorita: ");
+d = input("Escribe tu hobby: ");
+e = input("Escribe quienes son tus mejores amigas: ");
+print("Mi cantante favorito es",a);
+print ("Yo",b);
+print ("mi serie favorita es",c);
+print ("Mi hobby es",d);
+print ("Mis mejores amigas son",e);
